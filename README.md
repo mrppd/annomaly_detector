@@ -15,7 +15,7 @@ Mainly data preparation is done in R, and model implementation and  classificati
 
 In the python scripts, just change the path according to your folder path and for R, the working directory has to be set as source directory. That's it. 
 
-For flow3,
+For flow3, <br/>
     • At first run the “auth_reduction.R” from the “flow3” directory. 
     • It will generate “Test_day_9_10000N200AN.txt_compromised” and “Test_day_9_10000N200AN.txt_reduced” files for the given sample “Test_day_9_10000N200AN.txt”. 
     • Then run “find_pc_reletion.R”. It will generate intermediate file named “src_desTest_day_9_10000N200AN.txt_reduced.csv”. 
