@@ -1,4 +1,4 @@
-<h2>Anomaly detection using unsupervised algorithms <h2/>
+<h2>Anomaly detection using unsupervised algorithms </h2>
 
 Presentation slide
 https://github.com/mrppd/annomaly_detector/blob/main/Presentation_PronayaProsunDas.pdf
